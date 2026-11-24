@@ -100,13 +100,6 @@ Open `customer_behavior_dashboard.pbix` using Power BI Desktop to explore the vi
 - Presented analytical findings through a Power BI dashboard.
 - Strengthened skills in data preprocessing, exploratory analysis, and business intelligence.
 
-## Acknowledgements
-
-This project is a learning-based recreation and adaptation of the original work by **Amlan Mohanty**.
-
-Original repository: https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI
-
-Credit for the original project structure and reference materials belongs to the original author. Modifications and further analysis are maintained in this repository.
 
 ---
 
